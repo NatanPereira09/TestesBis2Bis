@@ -1,0 +1,9 @@
+nomeDoProduto: Nome do Produto
+descricaoDoProduto: Descrição do produto...
+precoDoProduto: 29.99
+disponibilidadeDoProduto: true
+categoriaDoProduto: Eletrônicos
+imagensDoProduto:
+  - https://cdn4.vectorstock.com/i/1000x1000/40/58/yaml-file-document-icon-vector-24704058.jpg
+  - https://cdn2.vectorstock.com/i/1000x1000/34/91/yaml-file-document-icon-vector-24703491.jpg
+  - https://geekflare.com/wp-content/uploads/2021/01/yaml-understanding.jpg

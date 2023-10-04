@@ -1,0 +1,13 @@
+{
+    "nomeDoProduto": "Nome do Produto",
+    "descricaoDoProduto": "Descrição do produto...",
+    "precoDoProduto": 29.99,
+    "disponibilidadeDoProduto": true,
+    "categoriaDoProduto": "Eletrônicos",
+    "imagensDoProduto": [
+      "https://cdn-icons-png.flaticon.com/512/6394/6394065.png",
+      "https://w7.pngwing.com/pngs/172/488/png-transparent-extension-file-format-json-document-file-format-file-icon.png",
+      "https://cdn-icons-png.flaticon.com/512/136/136443.png"
+    ]
+  }
+  

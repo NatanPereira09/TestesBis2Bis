@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap');
+
+body {
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    background-image: url(./images/richard-horvath-is8jWT-mvng-unsplash.jpg);
+}
+
+header {
+    background-color: white;
+    display: flex;
+    border-radius: 0px 0px 12px 12px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+header h1{
+    padding: 16px;
+    font-size: 26px;
+}
+header img {
+    width: 60px;
+    height: 60px;
+    padding: 16px;
+}
+
+.main-position {
+    display: flex;
+    align-items:center;
+    justify-content: flex-start;
+}
+
+.position {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+}
